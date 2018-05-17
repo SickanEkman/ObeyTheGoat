@@ -1,7 +1,6 @@
 from selenium import webdriver
 import unittest
 
-#test
 
 class NewVisitorTest(unittest.TestCase):
 
